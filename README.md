@@ -1,6 +1,12 @@
+# 💫 Hi 👋, I'm Smaran Basnet
+**Tech-Driven Business Designer | Aspiring Software Developer | AI & Automation Enthusiast**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Smaran Basnet) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smaranbasnet5@gmail.com) 
+Email Me 👉 ✉️ **smaranbasnet5@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Lead Generation and crm for Vehicles
+- 🌱 **I’m currently learning:** MBA in Digital Marketing
+- 😄 **Pronouns:** SAM.B
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 <!-- Snake Game Repo View -->
 
